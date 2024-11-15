@@ -27,6 +27,7 @@ canvas {
   letter-spacing: -.5px;
   display: block;
   margin: auto;
+  margin-bottom: 50px;
   width: 200px;
   height: 50px;
 }
